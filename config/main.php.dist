@@ -1,0 +1,12 @@
+<?php
+
+return array(
+    'db' => array(
+        'pdo' => '',
+        'host' => '',
+        'dbname' => '',
+        'username' => '',
+        'password' => '',
+        'charset' => '',
+    ),
+);
